@@ -1,0 +1,139 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+p {
+    font-size: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+  body {
+   
+    font-size: 24px;
+    line-height: 32px;
+    color: #333;
+    
+  }  
+
+ h1{
+     color: white;
+     font-family: 'Georgia', Times, Times New Roman, serif;
+     
+ }
+  h2{
+      color: #4aaaa5;
+      font-family: 'Georgia', Times, Times New Roman, serif;           
+      
+  }
+
+  h3{
+      color: #4aaaa5;
+      font-family: 'Georgia', Times, Times New Roman, serif;
+    }
+
+  h4{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+  }  
+
+  h5{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+  }
+
+  h6{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+  }
+
+.container {
+    background-color: #efeee7;
+    width: 960px;
+    margin: 0 auto; 
+}
+
+#mainbio,
+#contact,                   
+#bioimg {
+    float: left;
+}
+
+#mainio{
+    width: 650px;
+}
+
+#contact{
+    width: 270px;
+}
+
+
+#bioimg{
+    margin-right: 20px;
+    width: 200px;
+    height: 200px;
+}
+  header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: #ffffff;
+    border: #cccccc;
+}
+
+Section {
+    padding: 20px;
+    margin-left: 40px;
+    background: #ffffff;
+    border: #dddddd;
+    width: 960px;
+}
+
+#left {
+    float: left;
+    width: 25%;
+    background: #4aaaa5;
+
+}
+
+
+#middle {
+    float: left;
+    width: 50%;
+    color: #fff;
+    background: #fff
+ }
+#right {
+    float: left;
+    width: 25%;
+    color: rgb(102, 101, 101);
+
+  }
+  #full {
+    width: 100%;
+    overflow: auto;
+    clear: both;
+    background:;
+  }
+  #division {
+    float: left;
+    padding: 20px;
+    margin-top: 20px;
+    background: white;
+
+img {
+    float: left;
+}
+    
+  }
+  aside {
+    float: left;
+    width: 3270px;
+    height: 200px;
+    padding: 20px;
+    margin-left: 30px;
+    background: #fff;
+    border: 1px solid #eee;
+  }
+  footer {
+    padding: 20px;
+    clear: both;
+    background: #666666;
+  }
